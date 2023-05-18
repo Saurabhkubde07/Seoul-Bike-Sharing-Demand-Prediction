@@ -5,7 +5,7 @@
 4) Exploratory data analysis using various plots for a better understanding.
 5) Finding the correlation between each column .
 6) Applying Machine learning models to classify the data.
-7) Predicting the accuracy of the model and classifying the eligibility.Suspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.
+7) Predicting the accuracy of the model and classifying the eligibility.
 8) Tools used:-
 9) Python, Numpy, Pandas, Seaborn, and Matplotlib
 10) Sci-kit-learn for Ml
